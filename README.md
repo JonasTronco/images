@@ -1,2 +1,2 @@
 # images
-Convierte un diseño en una pagina de Internet
+Este es el segundo proyecto de Convertir un diseño (PNG) en una pagina de Internet sobre GibHub Pages
